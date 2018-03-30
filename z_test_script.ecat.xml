@@ -88,10 +88,26 @@
      <ETSCR_SUT_MD_TT/>
     </ATTRIBUTES>
     <SCRIPT>
-     <ETXML_LINE_TABTYPE/>
+     <ETXML_LINE_TABTYPE>
+      <item> LOG ( I_TEST ).</item>
+     </ETXML_LINE_TABTYPE>
     </SCRIPT>
     <PARAMETERS>
-     <ETPAR_GUIX/>
+     <ETPAR_GUIX>
+      <item>
+       <PNAME>I_TEST</PNAME>
+       <PTYP>V</PTYP>
+       <PDESC>Test</PDESC>
+       <PINDEX>0001</PINDEX>
+       <PDATLEN>0128</PDATLEN>
+       <PINTTYP>C</PINTTYP>
+       <PINTLEN>000128</PINTLEN>
+       <PDECIMALS>000000</PDECIMALS>
+       <SORT_LNR>0001</SORT_LNR>
+       <VALUE>&apos;Test&apos;</VALUE>
+       <TAB_INDEX>0</TAB_INDEX>
+      </item>
+     </ETPAR_GUIX>
     </PARAMETERS>
    </ECSC>
   </VERSION>
