@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_ECTD" serializer_version="v1.0.0">
  <VERSIONS>
-  <VERSION VERSION_NO="00000001">
+  <VERSION>
    <ECTD SAPRL="751" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
@@ -135,7 +135,7 @@
     </VARIANT_MODE>
    </ECTD>
   </VERSION>
-  <VERSION VERSION_NO="00000002">
+  <VERSION>
    <ECTD SAPRL="751" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
