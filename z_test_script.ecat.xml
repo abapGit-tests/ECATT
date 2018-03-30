@@ -89,7 +89,7 @@
     </ATTRIBUTES>
     <SCRIPT>
      <ETXML_LINE_TABTYPE>
-      <item> LOG ( I_TEST ).</item>
+      <item>LOG ( I_TEST ).</item>
      </ETXML_LINE_TABTYPE>
     </SCRIPT>
     <PARAMETERS>
