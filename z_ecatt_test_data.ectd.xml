@@ -113,6 +113,17 @@
        <VALUE>&apos;Param&apos;</VALUE>
        <TAB_INDEX>0</TAB_INDEX>
       </item>
+      <item>
+       <PNAME>YET_ANOTHER_PARAM</PNAME>
+       <PTYP>V</PTYP>
+       <PDESC>124</PDESC>
+       <PINDEX>0003</PINDEX>
+       <PDATLEN>0000</PDATLEN>
+       <PINTLEN>000000</PINTLEN>
+       <PDECIMALS>000000</PDECIMALS>
+       <SORT_LNR>0003</SORT_LNR>
+       <TAB_INDEX>0</TAB_INDEX>
+      </item>
      </ETPAR_GUIX>
      <ETPAR_VARI/>
     </PARAMETERS>
@@ -233,6 +244,19 @@
        <PDECIMALS>000000</PDECIMALS>
        <SORT_LNR>0002</SORT_LNR>
        <VALUE>&apos;Param&apos;</VALUE>
+       <TAB_INDEX>0</TAB_INDEX>
+      </item>
+      <item>
+       <PNAME>YET_ANOTHER_PARAM</PNAME>
+       <PTYP>V</PTYP>
+       <PDESC>124</PDESC>
+       <PINDEX>0003</PINDEX>
+       <PDATLEN>0128</PDATLEN>
+       <PINTTYP>C</PINTTYP>
+       <PINTLEN>000128</PINTLEN>
+       <PDECIMALS>000000</PDECIMALS>
+       <SORT_LNR>0003</SORT_LNR>
+       <VALUE>&apos;Test&apos;</VALUE>
        <TAB_INDEX>0</TAB_INDEX>
       </item>
      </ETPAR_GUIX>
