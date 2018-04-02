@@ -126,7 +126,13 @@
        <TAB_INDEX>0</TAB_INDEX>
       </item>
      </ETPAR_GUIX>
-     <ETPAR_VARI/>
+     <ETPAR_VARI>
+      <item>
+       <VAR_NAME>TEST</VAR_NAME>
+       <VINDEX>0002</VINDEX>
+       <SORTLNR>000002</SORTLNR>
+      </item>
+     </ETPAR_VARI>
     </PARAMETERS>
     <VARIANT_MODE>
      <ETVAR_EXT>
@@ -261,7 +267,13 @@
        <TAB_INDEX>0</TAB_INDEX>
       </item>
      </ETPAR_GUIX>
-     <ETPAR_VARI/>
+     <ETPAR_VARI>
+      <item>
+       <VAR_NAME>TEST</VAR_NAME>
+       <VINDEX>0002</VINDEX>
+       <SORTLNR>000002</SORTLNR>
+      </item>
+     </ETPAR_VARI>
     </PARAMETERS>
     <VARIANT_MODE>
      <ETVAR_EXT>
