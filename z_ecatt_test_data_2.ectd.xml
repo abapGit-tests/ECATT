@@ -2,7 +2,7 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_ECTD" serializer_version="v1.0.0">
  <VERSIONS>
   <VERSION>
-   <ECTD SAPRL="751" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
+   <ECTD SAPRL="" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
       <VERSION>00000001</VERSION>
@@ -91,7 +91,7 @@
        <PNAME>TEST_PARAM</PNAME>
        <PTYP>V</PTYP>
        <PDESC>Test</PDESC>
-       <PINDEX>0001</PINDEX>
+       <PINDEX>0002</PINDEX>
        <PDATLEN>0128</PDATLEN>
        <PINTTYP>C</PINTTYP>
        <PINTLEN>000128</PINTLEN>
@@ -100,12 +100,24 @@
        <VALUE>&apos;1&apos;</VALUE>
        <TAB_INDEX>0</TAB_INDEX>
       </item>
+      <item>
+       <PNAME>ANOTHER_PARAM</PNAME>
+       <PTYP>V</PTYP>
+       <PDESC>Test</PDESC>
+       <PINDEX>0001</PINDEX>
+       <PDATLEN>0128</PDATLEN>
+       <PINTTYP>C</PINTTYP>
+       <PINTLEN>000128</PINTLEN>
+       <PDECIMALS>000000</PDECIMALS>
+       <SORT_LNR>0002</SORT_LNR>
+       <TAB_INDEX>0</TAB_INDEX>
+      </item>
      </ETPAR_GUIX>
      <ETPAR_VARI/>
     </PARAMETERS>
     <VARIANT_MODE>
      <ETVAR_EXT>
-      <VAR_EXT_PATH>C:\Users\christian.guenter\OneDrive\Documents\SAP\SAP GUI</VAR_EXT_PATH>
+      <VAR_EXT_PATH></VAR_EXT_PATH>
      </ETVAR_EXT>
     </VARIANT_MODE>
    </ECTD>

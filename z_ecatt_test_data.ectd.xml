@@ -2,7 +2,7 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_ECTD" serializer_version="v1.0.0">
  <VERSIONS>
   <VERSION>
-   <ECTD SAPRL="751" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
+   <ECTD SAPRL="" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
       <VERSION>00000001</VERSION>
@@ -130,19 +130,25 @@
       <item>
        <VAR_NAME>TEST</VAR_NAME>
        <VINDEX>0002</VINDEX>
-       <SORTLNR>000002</SORTLNR>
+       <SORTLNR>000001</SORTLNR>
+      </item>
+      <item>
+       <VAR_NAME>VAR_1</VAR_NAME>
+       <VAR_DESC>Test</VAR_DESC>
+       <VINDEX>0003</VINDEX>
+       <SORTLNR>000004</SORTLNR>
       </item>
      </ETPAR_VARI>
     </PARAMETERS>
     <VARIANT_MODE>
      <ETVAR_EXT>
-      <VAR_EXT_PATH>C:\Users\christian.guenter\OneDrive\Documents\SAP\SAP GUI</VAR_EXT_PATH>
+      <VAR_EXT_PATH></VAR_EXT_PATH>
      </ETVAR_EXT>
     </VARIANT_MODE>
    </ECTD>
   </VERSION>
   <VERSION>
-   <ECTD SAPRL="751" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
+   <ECTD SAPRL="" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
       <VERSION>00000002</VERSION>
@@ -271,13 +277,19 @@
       <item>
        <VAR_NAME>TEST</VAR_NAME>
        <VINDEX>0002</VINDEX>
-       <SORTLNR>000002</SORTLNR>
+       <SORTLNR>000001</SORTLNR>
+      </item>
+      <item>
+       <VAR_NAME>VAR_1</VAR_NAME>
+       <VAR_DESC>Test</VAR_DESC>
+       <VINDEX>0003</VINDEX>
+       <SORTLNR>000004</SORTLNR>
       </item>
      </ETPAR_VARI>
     </PARAMETERS>
     <VARIANT_MODE>
      <ETVAR_EXT>
-      <VAR_EXT_PATH>C:\Users\christian.guenter\OneDrive\Documents\SAP\SAP GUI</VAR_EXT_PATH>
+      <VAR_EXT_PATH></VAR_EXT_PATH>
      </ETVAR_EXT>
     </VARIANT_MODE>
    </ECTD>
