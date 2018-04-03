@@ -2,7 +2,7 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_ECTC" serializer_version="v1.0.0">
  <VERSIONS>
   <VERSION>
-   <ECTC SAPRL="751" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
+   <ECTC SAPRL="" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
       <VERSION>00000001</VERSION>
@@ -86,7 +86,7 @@
     </ECATT_OBJECTS>
     <VARIANT_MODE>
      <ETVAR_EXT>
-      <VAR_EXT_PATH>C:\Users\christian.guenter\OneDrive\Documents\SAP\SAP GUI</VAR_EXT_PATH>
+      <VAR_EXT_PATH></VAR_EXT_PATH>
      </ETVAR_EXT>
     </VARIANT_MODE>
     <PARAMETERS>
