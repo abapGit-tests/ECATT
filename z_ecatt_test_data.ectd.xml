@@ -97,7 +97,7 @@
        <PINTLEN>000128</PINTLEN>
        <PDECIMALS>000000</PDECIMALS>
        <SORT_LNR>0001</SORT_LNR>
-       <VALUE>&apos;Test&apos;</VALUE>
+       <VALUE>&apos;Test2&apos;</VALUE>
        <TAB_INDEX>0</TAB_INDEX>
       </item>
       <item>
@@ -110,7 +110,7 @@
        <PINTLEN>000128</PINTLEN>
        <PDECIMALS>000000</PDECIMALS>
        <SORT_LNR>0002</SORT_LNR>
-       <VALUE>&apos;Param&apos;</VALUE>
+       <VALUE>&apos;Param2&apos;</VALUE>
        <TAB_INDEX>0</TAB_INDEX>
       </item>
       <item>
