@@ -2,7 +2,7 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_ECSP" serializer_version="v1.0.0">
  <VERSIONS>
   <VERSION>
-   <ECSP SAPRL="" VERSION="1.5" DOWNLOADDATE="" DOWNLOADTIME="">
+   <ECSP VERSION="1.5">
     <ATTRIBUTES>
      <ETOBJ_GNDT>
       <VERSION>00000001</VERSION>
