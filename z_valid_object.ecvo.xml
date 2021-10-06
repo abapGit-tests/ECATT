@@ -7,71 +7,19 @@
      <ETOBJ_GNDT>
       <VERSION>00000001</VERSION>
       <TWB_TITLE>Test validation object</TWB_TITLE>
-      <SOFTCOMP/>
-      <TWB_DEP_RF/>
-      <TWB_DEP_RT/>
       <TWB_STATUS>X</TWB_STATUS>
       <TWB_RELE>N</TWB_RELE>
-      <FUSER></FUSER>
-      <FDATE></FDATE>
-      <LUSER></LUSER>
-      <LDATE></LDATE>
-      <LTIME></LTIME>
-      <REL_BAS_F/>
-      <REL_BAS_T/>
-      <SERVICE/>
-      <PVNR/>
-      <BACKUP/>
      </ETOBJ_GNDT>
      <ETOBJNOVER>
       <NAME>Z_VALID_OBJECT</NAME>
       <TYPE>ECVO</TYPE>
-      <TWB_RESP></TWB_RESP>
       <TWB_DISTL>B</TWB_DISTL>
-      <TWB_EUBOBJ/>
-      <TWB_EUTYPE/>
-      <DEVCLASS></DEVCLASS>
       <MASTERLANG>E</MASTERLANG>
-      <TADIR_RESP></TADIR_RESP>
       <FRANGE>HOME</FRANGE>
-      <BCSET_MODE/>
-      <API_MODE/>
-      <COL_TSTOBJDATA/>
-      <NO_TRANSLATION/>
      </ETOBJNOVER>
-     <ETOBJ_DOC>
-      <SEARCH_1/>
-      <SEARCH_2/>
-      <SEARCH_3/>
-      <SEARCH_4/>
-      <SEARCH_5/>
-      <SEARCH_6/>
-      <SEARCH_7/>
-      <SEARCH_8/>
-      <SEARCH_9/>
-      <SEARCH_10/>
-      <S_DOC_ID/>
-      <S_OBJ_ID/>
-      <S_DOC_TITL/>
-     </ETOBJ_DOC>
      <ETOBJ_CNST>
-      <TWB_DEP_S/>
       <TWB_DEPV_S>W</TWB_DEPV_S>
-      <TWB_DEP_L/>
-      <TWB_DEPV_L/>
-      <TWB_USE_A/>
-      <TWB_USE_P/>
       <TWB_USE_H>X</TWB_USE_H>
-      <TWB_USE_E/>
-      <REUSE/>
-      <TWB_DEP_C/>
-      <TWB_DEP_VC/>
-      <TWB_DEP_F/>
-      <TWB_DEP_VF/>
-      <TWB_DEP_P/>
-      <TWB_DEP_VP/>
-      <TWB_DEP_DB/>
-      <TWB_DEPVDB/>
       <TWB_WKREQ>1.0</TWB_WKREQ>
       <TWB_WKUNIT>MIN</TWB_WKUNIT>
       <TWB_PRIO>3</TWB_PRIO>
@@ -84,7 +32,6 @@
      </IMPL_DET>
     </IMPL_DETAILS>
     <VO_FLAGS>
-     <INVERT_VALIDATION/>
      <ERROR_PRIORITY>0</ERROR_PRIORITY>
     </VO_FLAGS>
     <BUSINESS_MESSAGES>
@@ -108,10 +55,6 @@
       </item>
      </ETVO_MSG>
     </BUSINESS_MESSAGES>
-    <PARAMETERS>
-     <ETPAR_GUIX/>
-     <ETPAR_VARI/>
-    </PARAMETERS>
    </ECVO>
   </VERSION>
  </VERSIONS>

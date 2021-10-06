@@ -7,71 +7,15 @@
      <ETOBJ_GNDT>
       <VERSION>00000001</VERSION>
       <TWB_TITLE>Test start profile</TWB_TITLE>
-      <SOFTCOMP/>
-      <TWB_DEP_RF/>
-      <TWB_DEP_RT/>
-      <TWB_STATUS/>
-      <TWB_RELE/>
-      <FUSER></FUSER>
-      <FDATE></FDATE>
-      <LUSER></LUSER>
-      <LDATE></LDATE>
-      <LTIME></LTIME>
-      <REL_BAS_F/>
-      <REL_BAS_T/>
-      <SERVICE/>
-      <PVNR/>
-      <BACKUP/>
      </ETOBJ_GNDT>
      <ETOBJNOVER>
       <NAME>Z_TEST_START_PROFILE</NAME>
       <TYPE>ECSP</TYPE>
-      <TWB_RESP></TWB_RESP>
       <TWB_DISTL>B</TWB_DISTL>
-      <TWB_EUBOBJ/>
-      <TWB_EUTYPE/>
-      <DEVCLASS></DEVCLASS>
       <MASTERLANG>E</MASTERLANG>
-      <TADIR_RESP></TADIR_RESP>
       <FRANGE>HOME</FRANGE>
-      <BCSET_MODE/>
-      <API_MODE/>
-      <COL_TSTOBJDATA/>
-      <NO_TRANSLATION/>
      </ETOBJNOVER>
-     <ETOBJ_DOC>
-      <SEARCH_1/>
-      <SEARCH_2/>
-      <SEARCH_3/>
-      <SEARCH_4/>
-      <SEARCH_5/>
-      <SEARCH_6/>
-      <SEARCH_7/>
-      <SEARCH_8/>
-      <SEARCH_9/>
-      <SEARCH_10/>
-      <S_DOC_ID/>
-      <S_OBJ_ID/>
-      <S_DOC_TITL/>
-     </ETOBJ_DOC>
      <ETOBJ_CNST>
-      <TWB_DEP_S/>
-      <TWB_DEPV_S/>
-      <TWB_DEP_L/>
-      <TWB_DEPV_L/>
-      <TWB_USE_A/>
-      <TWB_USE_P/>
-      <TWB_USE_H/>
-      <TWB_USE_E/>
-      <REUSE/>
-      <TWB_DEP_C/>
-      <TWB_DEP_VC/>
-      <TWB_DEP_F/>
-      <TWB_DEP_VF/>
-      <TWB_DEP_P/>
-      <TWB_DEP_VP/>
-      <TWB_DEP_DB/>
-      <TWB_DEPVDB/>
       <TWB_WKREQ>0.0</TWB_WKREQ>
       <TWB_WKUNIT>MIN</TWB_WKUNIT>
       <TWB_PRIO>0</TWB_PRIO>
@@ -79,95 +23,13 @@
     </ATTRIBUTES>
     <START_PROFILE>
      <ddic:ETEXECDATA xmlns:ddic="http://xml.sap.com/2003/05/eCATT/ddic">
-      <INTERRUPT/>
-      <EXEC_CTRL/>
-      <DEBUG/>
-      <FSTARTMODE/>
-      <STARTMODE/>
-      <SYSTEMDATA/>
-      <TARGETSYSTEM/>
-      <VARIANT_ID/>
-      <START_TYPE/>
       <MAXRUNTIME>000000</MAXRUNTIME>
-      <ARCHIVE/>
-      <MODE_SAPGUI/>
-      <MODE_EXTTOOL/>
-      <MODE_SAPGUI_BREAK/>
-      <MODE_SAPGUI_SYNC/>
-      <MODE_SAPGUI_DEBUG/>
-      <DISPLAY_LOG/>
-      <MODE_SAPGUI_CLOSE/>
-      <USERNAME/>
-      <PASSWORD/>
-      <PROJECT/>
-      <CANCEL/>
       <OLD_LOG_ID>0000000000</OLD_LOG_ID>
-      <TWB_STATE_SET/>
-      <PERF_TRACE/>
-      <REM_CATT_INT_TSYS/>
-      <PERF_TRACE_SQL/>
-      <PERF_TRACE_ENQ/>
-      <PERF_TRACE_RFC/>
-      <PERF_TRACE_BUF/>
-      <PERF_TRACE_RESCON/>
-      <TWB_RFC_CLOSE/>
-      <MODE_SAPGUI_HIGHLIGHT/>
-      <MODE_SAPGUI_IN_ONE_SESS/>
-      <RFC_USE_ASYNC/>
-      <APL_LOG/>
       <WEB_MODE>N</WEB_MODE>
       <WEB_DURATION>2</WEB_DURATION>
-      <MODE_SAPGUI_PIC/>
-      <GUIPIC1/>
-      <GUIPIC2/>
-      <GUIPIC3/>
-      <GUIPIC4/>
       <GUIPIC_PATH>C:\Users\christian.guenter\OneDrive\Documents\SAP\SAP GUI</GUIPIC_PATH>
-      <GUIPIC_PATH_E/>
-      <GUIMINI/>
-      <ESF_DEBUG/>
-      <PRECONDITION/>
-      <SHORT_LOG/>
-      <MODE_EXTTOOL_DB/>
-      <MODE_EXTTOOL_LOG/>
-      <AGSSMT_BPCA_TRC/>
-      <TRANSFER_EXTTOOL_LOG/>
-      <SCOV_MEASUREMENT_TYPE/>
-      <SCOV_INTERRUPT/>
       <SCOV_EVALUATION_PERIOD>0</SCOV_EVALUATION_PERIOD>
-      <SCOV_SDL_SWITCH/>
-      <BCSET_ACTIVATION_MODE/>
-      <SCOV_SYSTEMS empty="true">
-       <item>
-        <TARGET_SYSTEM/>
-        <MEASUREMENT_SWITCH/>
-        <SDL_SWITCH/>
-       </item>
-      </SCOV_SYSTEMS>
-      <SCOV_FILTER_PROG>
-       <item>
-        <SIGN/>
-        <OPTION/>
-        <LOW/>
-        <HIGH/>
-       </item>
-      </SCOV_FILTER_PROG>
-      <SCOV_FILTER_DEVC>
-       <item>
-        <SIGN/>
-        <OPTION/>
-        <LOW/>
-        <HIGH/>
-       </item>
-      </SCOV_FILTER_DEVC>
-      <SCOV_FILTER_APPC>
-       <item>
-        <SIGN/>
-        <OPTION/>
-        <LOW/>
-        <HIGH/>
-       </item>
-      </SCOV_FILTER_APPC>
+      <SCOV_SYSTEMS empty="true"/>
      </ddic:ETEXECDATA>
     </START_PROFILE>
    </ECSP>
