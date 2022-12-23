@@ -13,11 +13,11 @@
       <TWB_DEP_RT/>
       <TWB_STATUS>X</TWB_STATUS>
       <TWB_RELE>N</TWB_RELE>
-      <FUSER/>
-      <FDATE/>
-      <LUSER/>
-      <LDATE/>
-      <LTIME/>
+      <FUSER></FUSER>
+      <FDATE></FDATE>
+      <LUSER></LUSER>
+      <LDATE></LDATE>
+      <LTIME></LTIME>
       <REL_BAS_F/>
       <REL_BAS_T/>
       <SERVICE/>
@@ -27,13 +27,13 @@
      <ETOBJNOVER>
       <NAME>Z_TEST_SCRIPT</NAME>
       <TYPE>ECSC</TYPE>
-      <TWB_RESP/>
+      <TWB_RESP></TWB_RESP>
       <TWB_DISTL>B</TWB_DISTL>
       <TWB_EUBOBJ/>
       <TWB_EUTYPE/>
-      <DEVCLASS/>
+      <DEVCLASS></DEVCLASS>
       <MASTERLANG>E</MASTERLANG>
-      <TADIR_RESP/>
+      <TADIR_RESP></TADIR_RESP>
       <FRANGE>HOME</FRANGE>
       <BCSET_MODE/>
       <API_MODE/>
