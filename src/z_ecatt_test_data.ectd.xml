@@ -130,13 +130,13 @@
       <item>
        <VAR_NAME>TEST</VAR_NAME>
        <VINDEX>0002</VINDEX>
-       <SORTLNR>000001</SORTLNR>
+       <SORTLNR>000003</SORTLNR>
       </item>
       <item>
        <VAR_NAME>VAR_1</VAR_NAME>
        <VAR_DESC>Test</VAR_DESC>
        <VINDEX>0003</VINDEX>
-       <SORTLNR>000002</SORTLNR>
+       <SORTLNR>000004</SORTLNR>
       </item>
      </ETPAR_VARI>
     </PARAMETERS>
