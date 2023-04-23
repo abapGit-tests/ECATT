@@ -85,9 +85,7 @@
      <ETTD_OBJ/>
     </ECATT_OBJECTS>
     <VARIANT_MODE>
-     <ETVAR_EXT>
-      <VAR_EXT_PATH></VAR_EXT_PATH>
-     </ETVAR_EXT>
+     <ETVAR_EXT></ETVAR_EXT>
     </VARIANT_MODE>
     <PARAMETERS>
      <ETPAR_GUIX/>
